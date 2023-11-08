@@ -187,8 +187,12 @@
 0.0.0.0 69games.xxx
 0.0.0.0 playforceone.com
 0.0.0.0 hooligapps.com
+0.0.0.0 indexxx.com
 
 # www Address
+0.0.0.0 www.licious.in
+0.0.0.0 media.babesource.com
+0.0.0.0 img.indexxx.com
 0.0.0.0 www.pornhub.com
 0.0.0.0 www.pornpics.com
 0.0.0.0 www.redtube.com
